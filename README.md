@@ -2,6 +2,8 @@
 
 **Markdown dashboards** — define dashboard sections using clean Markdown and special directives. No backend, no build tools, just a single HTML file.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?logo=vercel&logoColor=white)](https://waferboard.vercel.app/)
+
 ## About
 
 waferBoard is a self-contained dashboard tool that transforms Markdown files into a grid of interactive cards. Each section can display statistics, channel bars, metric grids, action lists, tags, and charts (pie/bar) using plain text directives. The entire dashboard is stored in your browser's local storage and can be exported as HTML, Markdown, PNG, SVG, or printed as PDF.
